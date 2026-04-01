@@ -1,8 +1,8 @@
 # Chatbox Application with Claude AI API Integration using Redux
 
 
-A fully funct<img width="1920" height="1080" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/c9d56579-4bcc-4f63-8aed-4840e5aeb1f1" />
-ional chatbox application built with **React** and **Redux Toolkit**, integrated with the **Anthropic Claude AI API**. This project was built as part of an assignment to demonstrate state management, API integration, responsive UI, and testing.
+<img width="1920" height="1080" alt="Screenshot (999)" src="https://github.com/user-attachments/assets/7ddba634-5956-4561-96a5-df26fc6a2e4c" />
+A fully functional chatbox application built with **React** and **Redux Toolkit**, integrated with the **Anthropic Claude AI API**. This project was built as part of an assignment to demonstrate state management, API integration, responsive UI, and testing.
 
 ---
 
